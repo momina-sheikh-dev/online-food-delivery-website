@@ -187,6 +187,9 @@
 
 }
 @media (max-width:597px) and (min-width:571px){
+     #navbar ul li a {
+       padding:2px 23px;
+    }
     #home::before{
         content: "";
         background:url('../img/bg.jpg') no-repeat center center/cover;
@@ -206,7 +209,7 @@
         font-size: 1rem;
     }
     .services-container{
-        margin: 210px 2px;
+        margin: 250px 2px;
     }
     #services{
         flex-wrap: wrap;
