@@ -187,9 +187,6 @@
 
 }
 @media (max-width:597px) and (min-width:571px){
-     #navbar ul li a {
-       padding:2px 23px;
-    }
     #home::before{
         content: "";
         background:url('../img/bg.jpg') no-repeat center center/cover;
@@ -209,7 +206,7 @@
         font-size: 1rem;
     }
     .services-container{
-        margin: 250px 2px;
+        margin: 210px 2px;
     }
     #services{
         flex-wrap: wrap;
@@ -259,7 +256,7 @@
         position: relative;
     }
     #navbar ul li a {
-       font-size: 50%;
+       padding: 2px 10px;
     }
     #home::before{
         width: 100%;
@@ -284,7 +281,7 @@
         width: 220px;
     }
     .services-container{
-        margin: 100px 2px;
+        margin: 150px 2px;
     }
     #services{
         flex-wrap: wrap;
@@ -299,7 +296,7 @@
         margin: 2px;
     }
     #client-sec{
-        margin: 650px 0px;
+        margin: 750px 0px;
     }
     #client-item{
         display: flex;
@@ -325,6 +322,10 @@
         width: 50%;
     
     }
+    #contact-box input{
+        width: 80%;
+        margin: 2% 0% 0% 10%;
+    }
 
 }
 @media (max-width:452px) and (min-width:439px){
@@ -349,7 +350,7 @@
     }
     .btn{
         font-size: 10px;
-        width: 300%;
+        width: 200px;
     }
     #home h1 {
         color: rgb(71, 15, 15);
