@@ -1,4 +1,4 @@
-# Welcome to 🍽️ [Online Food Delivery Website]! 
+# Welcome to 🍽️ Online Food Delivery Website! 
 
 This is an online food delivery website where you can explore various cuisines and have delicious meals delivered right to your doorstep. 🍕🥗🍔
 
