@@ -16,7 +16,7 @@ This is an online food delivery website where you can explore various cuisines a
 1. Clone this repository.
 2. Install the necessary dependencies.
 3. Set up your database and environment variables.
-4. Start the server. 🛠️
+4. Start the server.  🛠️
 
 ## Technologies Used:
 
@@ -24,7 +24,7 @@ This is an online food delivery website where you can explore various cuisines a
 
 ## Contributing:
 
-We welcome contributions from the community! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request. 🎉
+We welcome contributions from the community! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request. ✨
 
 
 Happy eating! Bon appétit! 🍽️
